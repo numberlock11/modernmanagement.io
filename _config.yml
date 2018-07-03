@@ -16,7 +16,11 @@ tagline:             'tagline'
 description:         'description'
 url:                 ''
 rss:                 rss feed url
+<<<<<<< HEAD
 baseurl:             ''
+=======
+baseurl:             '/ModernManagement.io/'
+>>>>>>> 5e4d01c2bc5ed60f0075984528c2c1367f1e3dfa
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
