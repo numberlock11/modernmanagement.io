@@ -14,9 +14,9 @@ name:				         Modern
 title:               modern management
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 ''
 rss:                 rss feed url
-baseurl:             '/ModernManagement.io'
+baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
